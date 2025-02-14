@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @MegaStarWarsFan789
-- 👀 I’m interested in programming, Music Composition, Poetry and Book Writing, Art, and Photography. My interests change rapidly, though!
-- 🌱 I’m currently learning How to compose orchestral music using LMMS and VST Plugins like Spitfire Audio and SINE Player.
+
